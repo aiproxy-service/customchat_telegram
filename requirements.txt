@@ -1,0 +1,3 @@
+python-telegram-bot
+tenacity==8.2.1
+httpx
